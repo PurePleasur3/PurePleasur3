@@ -1,3 +1,4 @@
+Hi, I'm Wussy
 Solo developer behind **Token Clash**, a skill-based trading card game on Solana, built under **WUSSYSTUDIO**.
 
   - 🎮 Play: https://game.tokenclash.app
