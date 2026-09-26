@@ -1,16 +1,18 @@
-## Hi there 👋
+Solo developer behind **Token Clash**, a skill-based trading card game on Solana, built under **WUSSYSTUDIO**.
 
-<!--
-**PurePleasur3/PurePleasur3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🎮 Play: https://game.tokenclash.app
+  - 🐦 X: [@CryptoWussy](https://x.com/CryptoWussy) · [@TokenClashTCG](https://x.com/TokenClashTCG)
+  - 💬 Discord: https://discord.gg/rCPCzCsGvK
+  - 📧 contact@tokenclash.app
 
-Here are some ideas to get you started:
+  ### Token Clash on Solana mainnet
+  Cards and packs are compressed NFTs minted by our own Anchor programs. Match stakes are held and settled on-chain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  | Program | Address |
+  |---|---|
+  | Escrow | `G9sSdELRNALNs2Rsa9qbKPsvUsW28qiDnSLEumawwjFU` |
+  | Cards | `5rpzdmuqYUNvrfuhuS8PHFVcKHGJEw2xctHwwKAzJfjv` |
+  | Referral | `HyTsjiSQhqA1fPesDUKCkrkJjXdar66EiZBfBdavGdNN` |
+  | Marketplace | `J7cKgEsX9DfZM5He4SzhBJoPo8BwHhKmqhaXU5d2aPjS` |
+
+  The game's codebase is private.
